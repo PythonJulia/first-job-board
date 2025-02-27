@@ -8,6 +8,9 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
 function App() {
+  console.log("App.js is rendering");
+
+function App() {
   return (
     <BrowserRouter>
       <Navbar />
