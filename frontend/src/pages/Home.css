@@ -1,0 +1,24 @@
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.explore-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
